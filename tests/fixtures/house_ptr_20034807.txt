@@ -1,0 +1,115 @@
+                                                                                                                   Filing ID #20034807
+
+                          P                            T                                       R
+              Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+
+
+F         I
+Name:                Hon. Matthew Robert Van Epps
+Status:              Member
+State/District: TN07
+
+
+T
+ID        Owner Asset                                        Transaction Date             Notification Amount                Cap.
+                                                             Type                         Date                               Gains >
+                                                                                                                             $200?
+
+                      Alphabet Inc. - Class A Common         S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      Stock (GOOGL) [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+
+
+                      Amazon.com, Inc. - Common Stock        S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      (AMZN) [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+
+
+                      Apple Inc. - Common Stock (AAPL)       S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+
+
+                      Exxon Mobil Corporation Common         S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      Stock (XOM) [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+
+
+                      GE Aerospace Common Stock (GE)         S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+
+
+                      GE Vernova Inc. Common Stock           S              06/16/2026 06/17/2026        $1,001 - $15,000
+                      (GEV) [ST]
+                      F      S     : New
+                      S           O : Schwab One Account
+ID         Owner Asset                                            Transaction Date                 Notification Amount                   Cap.
+                                                                  Type                             Date                                  Gains >
+                                                                                                                                         $200?
+
+                      Intel Corporation - Common Stock            S                 06/16/2026 06/17/2026             $1,001 - $15,000
+                      (INTC) [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      International Business Machines             S                 06/16/2026 06/17/2026             $1,001 - $15,000
+                      Corporation Common Stock (IBM)
+                      [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      Meta Platforms, Inc. - Class A              S                 06/16/2026 06/17/2026             $1,001 - $15,000
+                      Common Stock (META) [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      Microsoft Corporation - Common              S                 06/16/2026 06/17/2026             $1,001 - $15,000
+                      Stock (MSFT) [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      NVIDIA Corporation - Common Stock S                           06/16/2026 06/17/2026             $1,001 - $15,000
+                      (NVDA) [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      Southwest Airlines Company                  S                 06/16/2026 06/17/2026             $1,001 - $15,000
+                      Common Stock (LUV) [ST]
+                     F       S       : New
+                     S              O : Schwab One Account
+
+
+                      Tapestry, Inc. Common Stock (TPR)           S                 06/16/2026 06/17/2026             $15,001 -
+                      [ST]                                                                                            $50,000
+                     F       S       : New
+                     S              O : Schwab One Account
+
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+
+
+I                     V               D
+     Schwab One Account
+
+
+
+I            P             O
+    Yes     No
+
+
+C                               S
+    I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Matthew Robert Van Epps , 06/17/2026
+

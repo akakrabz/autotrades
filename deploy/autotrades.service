@@ -1,0 +1,23 @@
+# systemd unit: copy to /etc/systemd/system/autotrades.service, then
+#   systemctl daemon-reload && systemctl enable --now autotrades
+# TWS/IB Gateway must already be running (and auto-restarting) on the same host.
+[Unit]
+Description=autotrades - mirror disclosed trades into an IBKR paper account
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+User=vops
+WorkingDirectory=/software/workspace/autotrades
+EnvironmentFile=/software/workspace/autotrades/.env
+ExecStart=/software/workspace/autotrades/target/release/autotrades run
+Restart=on-failure
+RestartSec=30s
+# Hardening
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ReadWritePaths=/software/workspace/autotrades
+
+[Install]
+WantedBy=multi-user.target

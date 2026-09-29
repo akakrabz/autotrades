@@ -1,1 +1,8 @@
 /target
+/autotrades.toml
+/autotrades.db
+/autotrades.db-*
+/.env
+__pycache__/
+/python/*.db
+/python/.venv/

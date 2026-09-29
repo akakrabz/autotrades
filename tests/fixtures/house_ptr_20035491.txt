@@ -1,0 +1,690 @@
+                                                                                                                      Filing ID #20035491
+
+                          P                           T                                        R
+              Clerk of the House of Representatives • Legislative Resource Center • B81 Cannon Building • Washington, DC 20515
+
+
+F         I
+Name:                Hon. Kevin Hern
+Status:              Member
+State/District: OK01
+
+
+T
+ID        Owner Asset                                        Transaction Date             Notification Amount                  Cap.
+                                                             Type                         Date                                 Gains >
+                                                                                                                               $200?
+
+          DC          Apple Inc. - Common Stock (AAPL)       S (partial)    09/08/2026 09/15/2026         $1,001 - $15,000
+                      [ST]
+                      F      S     : New
+                      S           O : Kelby Austin Hern Trust
+
+
+          DC          Apple Inc. - Common Stock (AAPL)       S (partial)    09/08/2026 09/15/2026         $1,001 - $15,000
+                      [ST]
+                      F      S     : New
+                      S           O : Kaden Everett Hern Trust
+
+
+          JT          ARBUCKLE MEM HOSP AUTH            P                   09/08/2026 09/15/2026         $15,001 -
+                      OKLA SALES TAX 03.00000%                                                            $50,000
+                      01/01/2027 REV BDS SER. 2018 [GS]
+                      F      S     : New
+                      S           O : Hern Family Revocable Trust
+
+
+          JT          Boston Scientific Corporation          S (partial)    09/04/2026 09/15/2026         $50,001 -
+                      Common Stock (BSX) [ST]                                                             $100,000
+                      F      S     : New
+                      S           O : Hern Family Revocable Trust
+
+
+          DC          Boston Scientific Corporation          S              09/03/2026 09/15/2026         $1,001 - $15,000
+                      Common Stock (BSX) [ST]
+                      F      S     : New
+                      S           O : Gabrielle Ashtyn Hern Trust
+
+
+          DC          Boston Scientific Corporation          S              09/03/2026 09/15/2026         $1,001 - $15,000
+                      Common Stock (BSX) [ST]
+                      F      S     : New
+                      S           O : Kelby Austin Hern Trust
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+
+
+     DC    Boston Scientific Corporation         S             09/03/2026 09/15/2026   $1,001 - $15,000
+           Common Stock (BSX) [ST]
+           F       S    : New
+           S           O : Kaden Everett Hern Trust
+
+
+     JT    Boston Scientific Corporation         S             09/09/2026 09/15/2026   $50,001 -
+           Common Stock (BSX) [ST]                                                     $100,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Boston Scientific Corporation         S             08/31/2026 09/15/2026   $15,001 -
+           Common Stock (BSX) [ST]                                                     $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Brookfield Real Assets Income Fund    S             08/31/2026 09/15/2026   $15,001 -
+           Inc. Common Stock (RA) [ST]                                                 $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Cadence Design Systems, Inc. -        S (partial)   09/14/2026 09/15/2026   $15,001 -
+           Common Stock (CDNS) [ST]                                                    $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Cadence Design Systems, Inc. -        S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Common Stock (CDNS) [ST]                                                    $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           CenterPoint Energy, Inc (CNP) [ST]    S             09/15/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    Chubb Limited Common Stock (CB)       P             08/31/2026 09/15/2026   $1,001 - $15,000
+           [ST]
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Coca-Cola Company (KO) [ST]           P             08/31/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Hern Family Foundation
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+
+           Colgate-Palmolive Company Common S (partial)        08/27/2026 09/15/2026   $1,001 - $15,000
+           Stock (CL) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           Colgate-Palmolive Company Common S                  08/31/2026 09/15/2026   $1,001 - $15,000
+           Stock (CL) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    Colgate-Palmolive Company Common S (partial)        09/02/2026 09/15/2026   $1,001 - $15,000
+           Stock (CL) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Crane Company Common Stock (CR)       S             08/31/2026 09/15/2026   $50,001 -
+           [ST]                                                                        $100,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Crane NXT, Co. Common Stock (CXT) S                 08/31/2026 09/15/2026   $15,001 -
+           [ST]                                                                        $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           CSX Corporation (CSX) [ST]            S (partial)   08/31/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           CSX Corporation (CSX) [ST]            S (partial)   08/27/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    Danaher Corporation Common Stock      S             08/31/2026 09/15/2026   $15,001 -
+           (DHR) [ST]                                                                  $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Danaher Corporation Common Stock      S (partial)   09/02/2026 09/15/2026   $1,001 - $15,000
+           (DHR) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Devon Energy Corporation Common       S (partial)   09/02/2026 09/15/2026   $100,001 -
+ID   Owner Asset                                  Transaction Date         Notification Amount             Cap.
+                                                  Type                     Date                            Gains >
+                                                                                                           $200?
+           Stock (DVN) [ST]                                                             $250,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Devon Energy Corporation Common        S (partial)   09/04/2026 09/15/2026   $100,001 -
+           Stock (DVN) [ST]                                                             $250,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Devon Energy Corporation Common        S (partial)   09/14/2026 09/15/2026   $15,001 -
+           Stock (DVN) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Devon Energy Corporation Common        S (partial)   08/31/2026 09/15/2026   $100,001 -
+           Stock (DVN) [ST]                                                             $250,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           Devon Energy Corporation Common        S             08/31/2026 09/15/2026   $15,001 -
+           Stock (DVN) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           Eaton Corporation, PLC Ordinary        S (partial)   09/10/2026 09/15/2026   $1,001 - $15,000
+           Shares (ETN) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     DC    Eaton Vance Corporation Eaton          S             09/08/2026 09/15/2026   $1,001 - $15,000
+           Vance Tax-Managed Buy-Write
+           Opportunities Fund Common Shares
+           of Beneficial Interest (ETV) [ST]
+           F       S    : New
+           S           O : Gabrielle Ashtyn Hern Trust
+
+
+     JT    Emerson Electric Company Common        S (partial)   09/14/2026 09/15/2026   $1,001 - $15,000
+           Stock (EMR) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Emerson Electric Company Common        S (partial)   09/14/2026 09/15/2026   $15,001 -
+           Stock (EMR) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+
+     JT    ExxonMobil Holdings Corporation       S (partial)   08/31/2026 09/15/2026   $100,001 -
+           Common Stock (XOM) [ST]                                                     $250,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           Ford Motor Company Common Stock S                   08/31/2026 09/15/2026   $1,001 - $15,000
+           (F) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    GRAND RIVER DAM AUTH OKLA             P             09/15/2026 09/15/2026   $15,001 -
+           REV REV BDS 03.12500%                                                       $50,000
+           06/01/2029 SER.2014A [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Home Depot, Inc. (HD) [ST]            S (partial)   09/14/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Home Depot, Inc. (HD) [ST]            S (partial)   09/10/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Home Depot, Inc. (HD) [ST]            S             09/14/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Home Depot, Inc. (HD) [ST]            S (partial)   09/02/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Home Depot, Inc. (HD) [ST]            S (partial)   08/31/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           Home Depot, Inc. (HD) [ST]            S             08/27/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+ID   Owner Asset                                  Transaction Date         Notification Amount             Cap.
+                                                  Type                     Date                            Gains >
+                                                                                                           $200?
+     JT    Honeywell International Inc. (HON)     S             08/31/2026 09/15/2026   $15,001 -
+           [ST]                                                                         $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Illinois Tool Works Inc. Common        S             08/31/2026 09/15/2026   $15,001 -
+           Stock (ITW) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Illinois Tool Works Inc. Common        S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Stock (ITW) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Illinois Tool Works Inc. Common        S (partial)   09/04/2026 09/15/2026   $50,001 -
+           Stock (ITW) [ST]                                                             $100,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Illinois Tool Works Inc. Common        S             09/09/2026 09/15/2026   $15,001 -
+           Stock (ITW) [ST]                                                             $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     DC    IQVIA Holdings, Inc. Common Stock      S             09/08/2026 09/15/2026   $1,001 - $15,000
+           (IQV) [ST]
+           F       S    : New
+           S           O : Gabrielle Ashtyn Hern Trust
+
+
+     JT    IQVIA Holdings, Inc. Common Stock      S             09/14/2026 09/15/2026   $15,001 -
+           (IQV) [ST]                                                                   $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     DC    IQVIA Holdings, Inc. Common Stock      S             09/03/2026 09/15/2026   $1,001 - $15,000
+           (IQV) [ST]
+           F       S    : New
+           S           O : Kaden Everett Hern Trust
+
+
+     JT    JACKSON CNTY OKLA FACS AUTH P                        09/14/2026 09/15/2026   $15,001 -
+           SALES TAX 02.25000% 10/01/2029                                               $50,000
+           REV BDS COURTHOUSE PROJ SER.
+           2022 [GS]
+           F       S   : New
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+           S           O : Hern Family Revocable Trust
+
+
+     JT    JENKS OKLA UNLTD TAX GO BDS           P             09/03/2026 09/15/2026   $15,001 -
+           SER. 2020 02.00000% 11/01/2028                                              $50,000
+           [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    JENKS OKLA UNLTD TAX GO BDS           P             09/03/2026 09/15/2026   $15,001 -
+           SER. 2020 02.00000% 11/01/2030                                              $50,000
+           [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Linde plc - Ordinary Shares (LIN)     S             09/02/2026 09/15/2026   $15,001 -
+           [ST]                                                                        $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Linde plc - Ordinary Shares (LIN)     S (partial)   08/31/2026 09/15/2026   $15,001 -
+           [ST]                                                                        $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Lockheed Martin Corporation           S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Common Stock (LMT) [ST]                                                     $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Lockheed Martin Corporation           S             09/02/2026 09/15/2026   $15,001 -
+           Common Stock (LMT) [ST]                                                     $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Lowe's Companies, Inc. Common         S (partial)   09/02/2026 09/15/2026   $1,001 - $15,000
+           Stock (LOW) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Marsh Common Stock (MRSH) [ST]        S (partial)   09/02/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Marsh Common Stock (MRSH) [ST]        S (partial)   09/14/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Marsh Common Stock (MRSH) [ST]        S (partial)   09/09/2026 09/15/2026   $100,001 -
+                                                                                       $250,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    MUSKOGEE CNTY OKLA PUB                P             09/15/2026 09/15/2026   $15,001 -
+           SAFETY AUTH CAP 04.00000%                                                   $50,000
+           12/01/2028 IMPT REV BDS SER.
+           2025 [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    NextEra Energy, Inc. Common Stock     S (partial)   09/14/2026 09/15/2026   $15,001 -
+           (NEE) [ST]                                                                  $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    NextEra Energy, Inc. Common Stock     S (partial)   09/02/2026 09/15/2026   $1,001 - $15,000
+           (NEE) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+           Novartis AG Common Stock (NVS)        S             08/27/2026 09/15/2026   $15,001 -
+           [ST]                                                                        $50,000
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           Novo Nordisk A/S Common Stock         S (partial)   08/31/2026 09/15/2026   $1,001 - $15,000
+           (NVO) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           Novo Nordisk A/S Common Stock         S             09/10/2026 09/15/2026   $1,001 - $15,000
+           (NVO) [ST]
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    OKLAHOMA CITY OKLA ARPT        P                    09/04/2026 09/15/2026   $50,001 -
+           TRUST JR LIEN 05.00000%                                                     $100,000
+           07/01/2034 TAX EXEMPT BDS SER.
+           33 [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+ID   Owner Asset                                 Transaction Date         Notification Amount       Cap.
+                                                 Type                     Date                      Gains >
+                                                                                                    $200?
+     JT    OKLAHOMA ST CAPITOL IMPT              P             09/15/2026 09/15/2026   $15,001 -
+           AUTH ST FACS 05.00000%                                                      $50,000
+           01/01/2034 REV BDS CAPITOL
+           REPAIR PROJ SER. 2019 C [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    OKLAHOMA ST CAPITOL IMPT              P             09/14/2026 09/15/2026   $15,001 -
+           AUTH ST FACS 05.00000%                                                      $50,000
+           07/01/2034 REV BDS OKLAHOMA
+           DEPT OF CORRECTIONS SER. 2018
+           D [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    OKLAHOMA ST CAPITOL IMPT              P             09/14/2026 09/15/2026   $15,001 -
+           AUTH ST FACS 05.00000%                                                      $50,000
+           07/01/2034 REV BDS OKLAHOMA
+           DEPT OF CORRECTIONS SER. 2018
+           D [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    ONEOK, Inc. Common Stock (OKE)        S (partial)   09/04/2026 09/15/2026   $15,001 -
+           [ST]                                                                        $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    ONEOK, Inc. Common Stock (OKE)        E             09/11/2026 09/15/2026   $500,001 -
+           [ST]                                                                        $1,000,000
+           F       S     : New
+           S            O : Hern Family Revocable Trust
+           D           : OKE exchange for CUSIP 30609A109
+
+
+     JT    ONEOK, Inc. Common Stock (OKE)        E             09/11/2026 09/15/2026   $100,001 -
+           [ST]                                                                        $250,000
+           F       S     : New
+           S            O : Hern Family Foundation
+           D           : OKE exchange for CUSIP 30609A109
+
+
+     JT    ONEOK, Inc. Common Stock (OKE)        S (partial)   08/31/2026 09/15/2026   $50,001 -
+           [ST]                                                                        $100,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    O'Reilly Automotive, Inc. - Common    S (partial)   08/31/2026 09/15/2026   $15,001 -
+           Stock (ORLY) [ST]                                                           $50,000
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    O'Reilly Automotive, Inc. - Common    S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Stock (ORLY) [ST]                                                           $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           Pembina Pipeline Corp. Ordinary       S             08/27/2026 09/15/2026   $15,001 -
+           Shares (PBA) [ST]                                                           $50,000
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    Progress Software Corporation -       S             08/31/2026 09/15/2026   $15,001 -
+           Common Stock (PRGS) [ST]                                                    $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    PTC Inc. - Common Stock (PTC) [ST]    S             08/31/2026 09/15/2026   $50,001 -
+                                                                                       $100,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    PTC Inc. - Common Stock (PTC) [ST]    S             09/09/2026 09/15/2026   $50,001 -
+                                                                                       $100,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    Rockwell Automation, Inc. Common      S (partial)   09/14/2026 09/15/2026   $15,001 -
+           Stock (ROK) [ST]                                                            $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Rockwell Automation, Inc. Common      S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Stock (ROK) [ST]                                                            $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Rockwell Automation, Inc. Common      S (partial)   09/02/2026 09/15/2026   $15,001 -
+           Stock (ROK) [ST]                                                            $50,000
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+           Seagate Technology Holdings PLC -     S (partial)   09/15/2026 09/15/2026   $1,001 - $15,000
+           Ordinary Shares (STX) [ST]
+ID   Owner Asset                                 Transaction Date         Notification Amount             Cap.
+                                                 Type                     Date                            Gains >
+                                                                                                          $200?
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    Starbucks Corporation - Common        S (partial)   09/02/2026 09/15/2026   $1,001 - $15,000
+           Stock (SBUX) [ST]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+           STERIS plc (STE) [ST]                 S             09/15/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+           TJX Companies, Inc. (TJX) [ST]        S             09/15/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    TJX Companies, Inc. (TJX) [ST]        S (partial)   09/02/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    TJX Companies, Inc. (TJX) [ST]        S (partial)   08/31/2026 09/15/2026   $15,001 -
+                                                                                       $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+           TJX Companies, Inc. (TJX) [ST]        S (partial)   08/27/2026 09/15/2026   $1,001 - $15,000
+
+           F       S    : New
+           S           O : Kevin Hern Traditional IRA
+
+
+     JT    TULSA OKLA MET UTIL AUTH              P             09/09/2026 09/15/2026   $15,001 -
+           UTIL REV UTIL 03.00000%                                                     $50,000
+           04/01/2029 REV BDS SER. A [GS]
+           F       S    : New
+           S           O : Hern Family Revocable Trust
+
+
+     JT    UnitedHealth Group Incorporated       S             09/10/2026 09/15/2026   $15,001 -
+           Common Stock (UNH) [ST]                                                     $50,000
+           F       S    : New
+           S           O : Hern Family Foundation
+
+
+     JT    Virtus Artificial Intelligence &     S (partial)    09/14/2026 09/15/2026   $15,001 -
+           Technology Opportunities Fund                                               $50,000
+           Common Shares of Beneficial Interest
+ID         Owner Asset                                            Transaction Date                  Notification Amount                  Cap.
+                                                                  Type                              Date                                 Gains >
+                                                                                                                                         $200?
+                      (AIO) [ST]
+                     F       S       : New
+                     S              O : Hern Family Foundation
+
+
+           DC         Virtus Artificial Intelligence &     S                        09/03/2026 09/15/2026             $1,001 - $15,000
+                      Technology Opportunities Fund
+                      Common Shares of Beneficial Interest
+                      (AIO) [ST]
+                     F       S       : New
+                     S              O : Gabrielle Ashtyn Hern Trust
+
+
+           JT         Virtus Artificial Intelligence &     S (partial)              08/31/2026 09/15/2026             $15,001 -
+                      Technology Opportunities Fund                                                                   $50,000
+                      Common Shares of Beneficial Interest
+                      (AIO) [ST]
+                     F       S       : New
+                     S              O : Hern Family Foundation
+
+
+           DC         Vuzix Corporation (VUZI) [ST]               S                 09/03/2026 09/15/2026             $1,001 - $15,000
+
+                     F       S       : New
+                     S              O : Gabrielle Ashtyn Hern Trust
+
+
+           DC         Vuzix Corporation (VUZI) [ST]               S                 09/03/2026 09/15/2026             $1,001 - $15,000
+
+                     F       S       : New
+                     S              O : Kelby Austin Hern Trust
+
+
+                      Walmart Inc. - Common Stock                 S (partial)       08/27/2026 09/15/2026             $1,001 - $15,000
+                      (WMT) [ST]
+                     F       S       : New
+                     S              O : Kevin Hern Traditional IRA
+
+* For the complete list of asset type abbreviations, please visit https://fd.house.gov/reference/asset-type-codes.aspx.
+
+
+I                     V               D
+     Gabrielle Ashtyn Hern Trust (100% Interest) (Owner: DC)
+     D            : Revocable Trust Account fbo Gabrielle Ashtyn Hern
+     Hern Family Foundation (100% Interest) (Owner: JT)
+
+     Hern Family Revocable Trust (100% Interest) (Owner: JT)
+     D          : Family Revocable Trust
+
+     Kaden Everett Hern Trust (Owner: DC)
+     Kelby Austin Hern Trust (Owner: DC)
+     Kevin Hern Traditional IRA
+I           P            O
+    Yes     No
+
+
+C                               S
+    I CERTIFY that the statements I have made on the attached Periodic Transaction Report are true, complete, and correct to the best of
+my knowledge and belief. Further, I CERTIFY that I have disclosed all transactions as required by the STOCK Act.
+
+Digitally Signed: Hon. Kevin Hern , 09/25/2026
+

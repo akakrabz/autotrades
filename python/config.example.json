@@ -1,0 +1,26 @@
+{
+  "db_path": "autotrades.db",
+  "poll_interval_secs": 900,
+  "max_disclosure_age_days": 10,
+  "max_order_usd": 10000,
+  "ibkr": { "host": "127.0.0.1", "port": 7497, "client_id": 18 },
+  "pilots": [
+    {
+      "id": "pelosi",
+      "match": "Pelosi",
+      "chamber": "house",
+      "enabled": true,
+      "allocation_usd": 10000,
+      "per_trade_usd": 1000,
+      "scale_by_amount": true
+    },
+    {
+      "id": "tuberville",
+      "match": "Tuberville",
+      "chamber": "senate",
+      "enabled": false,
+      "allocation_usd": 5000,
+      "per_trade_usd": 500
+    }
+  ]
+}
